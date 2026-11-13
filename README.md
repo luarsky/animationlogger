@@ -5,7 +5,7 @@ Idea taken from [Edge's Audio Logger](https://github.com/EdgeIY/audiologger).
 
 ## Link
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/animationlogger/master/source.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luarsky/animationlogger/master/source.luau"))()
 ```
 ## Basic functions
 ### Settings
