@@ -1,5 +1,4 @@
--- https://github.com/LocalScriptMaker
--- https://pastebin.com/u/LocalScript_Maker
+-- https://github.com/luarsky
 -- Credits to Tiffblocks for drag system
 -- Inspired by https://www.youtube.com/watch?v=07Zhq5VR5dk
 
