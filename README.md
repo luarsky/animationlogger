@@ -1,11 +1,11 @@
 # Animation Logger
-An all-in-one game research tool! It loads all the animations that are currently playing!
+An all-in-one game research tool. It loads all the animations that are currently playing.
 
-Idea taken from Edge's Audio Logger.
+Idea taken from [Edge's Audio Logger](https://github.com/EdgeIY/audiologger).
 
 ## Link
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/animationlogger/master/source"))()
+```luau
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/animationlogger/master/source.luau"))()
 ```
 ## Basic functions
 ### Settings
@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/anim
 + _Clear All_ - clears all animations
 ### Scan
 + _Yourself_ - finds animations playing in your player
-+ _Players_ - finds animations playing in **other** players
++ _Players_ - finds animations playing in other players
 + _Selected_ - finds animations playing in selected rig
 + _All_ - finds animations playing in all rigs
 
